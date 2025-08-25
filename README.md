@@ -1,6 +1,6 @@
 # 4610-Midterm-Submission1
 
-Vehicle Routing Problem Using Quantum-Inspired Evolutionary Algorithms
+Vehicle Routing Problem Using Quantum-Inspired Evolutionary Algorithms.
 
 ## Objective: Develop and implement a Genetic Algorithm (GA) to solve a basic combinatorial
 

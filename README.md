@@ -4,7 +4,7 @@ Vehicle Routing Problem Using Quantum-Inspired Evolutionary Algorithms
 
 ## Objective: Develop and implement a Genetic Algorithm (GA) to solve a basic combinatorial
 
-optimization problem in the logistics sector. Specifically, you will address the Vehicle Routing
+Optimization problem in the logistics sector. Specifically, you will address the Vehicle Routing
 Problem (VRP), a classic problem of finding optimal routes for multiple vehicles to visit a set
 of locations.
 

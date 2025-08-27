@@ -1,6 +1,6 @@
 ## Todo list and overview (remove this before 8.september)
 
-This is out todo-list. When we have finished a task mark it with ✅. Also if you are working on a task mark your name behind it so we now who is working on what task. If you feel that we are missing a task feel free to add it to the file.
+This is our todo-list. When we have finished a task mark it with ✅. Also if you are working on a task mark your name behind it so we now who is working on what task. If you feel that we are missing a task feel free to add it to the file.
 
 ### 1 The Vehicle Routing Problem (VRP)
 
@@ -36,7 +36,7 @@ number of vehicles used.
     coordinates for each location and calculate distances as Euclidean distances, or  
     supply a distance matrix for a set of locations. You can choose other formats  
     that suit your implementation. Ensure the example is easy to understand, such  
-    as a small table of distances or a simple map of points. --> Thomas
+    as a small table of distances or a simple map of points. --> Thomas✅
 
 1.  Performance Evaluation Metrics: Define metric(s) (for example, solution quality(fitnes),  
     required time, convergence rate, or computational efficiency) to evaluate and compare  
@@ -44,7 +44,7 @@ number of vehicles used.
 
 1.  Comparison and Analysis:  
     a. Using the above metrics, compare and analyze your implementation using the  
-    three categories of test problems.
+    three categories of test problems.✅
 
     b. You also need to test and analyse all the test problems for three sets of GA  
     parameters (population size, generation number, crossover probability, and  
@@ -56,13 +56,17 @@ a. Code Implementation:
 i. Provide a GitHub repository containing all your source code. Include a clear
 README with instructions on how to install any dependencies and run the
 algorithms on the provided example data.
+
 ii. Include the GitHub link in the submitted report and ensure it is shareable and
 executable.✅
+
 iii. The code should preferably be written in Python (if you are not familiar with
 Python, you can use a similar language). To handle the VRP data and instances,
-you may use libraries of your choice, such as NetworkX or OR-Tools.
+you may use libraries of your choice, such as NetworkX or OR-Tools.✅
+
 iv. The repository should be well-organized, and the code should be commented on
 or accompanied by notes explaining key parts of the GA implementation.
+
 v. The code must be in an executable state and generate the outputs.
 
 ### b. Report

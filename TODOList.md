@@ -94,3 +94,7 @@ iv. The report should at least discuss the points below:
 NB: Since EAs are heuristic, you must not report results from a single run when presenting the  
 results and comparisons. You should report the best, average, and worst results from several  
 evolutionary runs.✅
+
+### EXTRA TODO
+
+1. FIX the code comments --> Thomas

@@ -30,7 +30,7 @@ Optimization problem in the logistics sector. Specifically, you will address the
 Problem (VRP), a classic problem of finding optimal routes for multiple vehicles to visit a set
 of locations.
 
-### 1 The Vehicle Routing Problem (VRP)
+### 1. The Vehicle Routing Problem (VRP)
 
 The Vehicle Routing Problem (VRP) involves finding the most efficient routes for a fleet of
 vehicles to serve a group of customers from a central depot. The input includes a depot, a set

@@ -65,7 +65,7 @@ Python, you can use a similar language). To handle the VRP data and instances,
 you may use libraries of your choice, such as NetworkX or OR-Tools.✅
 
 iv. The repository should be well-organized, and the code should be commented on
-or accompanied by notes explaining key parts of the GA implementation.
+or accompanied by notes explaining key parts of the GA implementation.✅
 
 v. The code must be in an executable state and generate the outputs.✅
 
@@ -101,4 +101,4 @@ evolutionary runs.✅
 
 ### EXTRA TODO
 
-1. FIX the code comments --> Thomas
+1. FIX the code comments --> Thomas✅

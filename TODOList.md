@@ -80,20 +80,20 @@ iv. The report should at least discuss the points below:
    implementation in detail so that others can replicate your work. This  
    includes the individual representation, implementation of  
    corresponding genetic operators, selection strategy, termination, and  
-   initialization strategies.
+   initialization strategies.✅
 
-2. Define and explain the objective function.
+2. Define and explain the objective function.✅
 
-3. Using your specified metric(s), compare and analyze your implementation across our three categories of test problems.
+3. Using your specified metric(s), compare and analyze your implementation across our three categories of test problems.✅
 
 4. A table summarizing the required time to find the solution for all the  
-   test problems with your defined three sets of parameters.
+   test problems with your defined three sets of parameters.✅
 
 5. What are your findings, analysis, and conclusions about the correlation  
-   of the parameters based on the achieved results?
+   of the parameters based on the achieved results?✅
 
 6. Describe the effects of these parameter values during the early and later  
-   stages of the evolutionary cycle.
+   stages of the evolutionary cycle.✅
 
 NB: Since EAs are heuristic, you must not report results from a single run when presenting the  
 results and comparisons. You should report the best, average, and worst results from several  

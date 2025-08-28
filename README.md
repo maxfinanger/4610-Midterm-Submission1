@@ -6,11 +6,23 @@ Vehicle Routing Problem Using Quantum-Inspired Evolutionary Algorithms.
 
 ### Prerequisites
 
-You need python, numpy, time and matplotlib.pyplot installed to be able to run this algorithm and get the results.
+You need Python installed, as well as the following Python packages:
+
+- numpy
+- matplotlib
+- jupyter
+
+### Installation
+
+If you dont have the dependencies you can use this comand to install them:
+
+```sh
+pip install numpy matplotlib jupyter
+```
 
 ### Instructions
 
-To run the algortihm you only need to press the run all button in the jupyter notebook. And then all of the scenarios will be run and the results will be shown in the output cells.
+To run the algortihm you only need to press the "Run All" button in the Jupyter notebook. And then all of the scenarios will be run and the results will be shown in the output cells.
 
 ## Objective: Develop and implement a Genetic Algorithm (GA) to solve a basic combinatorial
 

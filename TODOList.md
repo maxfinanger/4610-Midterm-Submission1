@@ -55,7 +55,7 @@ number of vehicles used.
 a. Code Implementation:
 i. Provide a GitHub repository containing all your source code. Include a clear
 README with instructions on how to install any dependencies and run the
-algorithms on the provided example data.
+algorithms on the provided example data.✅
 
 ii. Include the GitHub link in the submitted report and ensure it is shareable and
 executable.✅
@@ -67,7 +67,7 @@ you may use libraries of your choice, such as NetworkX or OR-Tools.✅
 iv. The repository should be well-organized, and the code should be commented on
 or accompanied by notes explaining key parts of the GA implementation.
 
-v. The code must be in an executable state and generate the outputs.
+v. The code must be in an executable state and generate the outputs.✅
 
 ### b. Report
 
